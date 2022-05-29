@@ -1,0 +1,78 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Yusufbek",
+      "lastName": "yunusjonov",
+      "email": "Yusufbek@gmail.com",
+      "village": "48apt, Milliy-qadriyat",
+      "city": "Andijon",
+      "state": "Izboskan",
+      "zip": "171200",
+      "course": "Programming",
+      "payment": "none",
+      "date": "2022/4/28"
+    },
+    {
+      "id": 2,
+      "name": "Begozod",
+      "lastName": "Sirojiddinov",
+      "email": "begzodsirojiddinov0@gmail.com",
+      "village": "19apt, qadriyat",
+      "city": "Andijon",
+      "state": "Izboskan",
+      "zip": "171200",
+      "course": "Business analytics",
+      "payment": "none",
+      "date": "2022/10/04"
+    },
+    {
+      "id": 3,
+      "name": "Doston",
+      "lastName": "Ergashev",
+      "email": "doston@gmail.com",
+      "village": "23apt, qadriyat",
+      "city": "Andijon",
+      "state": "Asaka",
+      "zip": "171200",
+      "course": "Data Since",
+      "payment": "none",
+      "date": "2022/09/12"
+    },
+    {
+      "id": 4,
+      "name": "Asad",
+      "lastName": "Ergashev",
+      "email": "Troynoy@gmail.com",
+      "village": "21apt, qum-kocha",
+      "city": "Andijon",
+      "state": "Izboskan",
+      "zip": "171200",
+      "course": "Programming",
+      "payment": "none",
+      "date": "2022/4/29"
+    },
+    {
+      "id": 5,
+      "name": "Bekzodbek",
+      "lastName": "Sirojiddinov",
+      "email": "begzodsirojiddinov@gmail.com",
+      "village": "19apt, qadriyat",
+      "city": "Andijon",
+      "state": "Izboskan",
+      "zip": "171200",
+      "course": "Business analytics",
+      "payment": "none",
+      "date": "2022/4/29"
+    }
+  ],
+  "accounts": [
+    {
+      "id": 1,
+      "name": "Bekzodbek",
+      "lastName": "Binasa",
+      "email": "abbosjon@gmail.com",
+      "password": "12345678sb"
+    }
+  ]
+}
